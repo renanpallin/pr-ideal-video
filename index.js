@@ -1,4 +1,9 @@
-const cors = require('cors')
+
+
+
+
+const $ = require('jquery')
+$('like-button').click()
 
 
 if (gostouDoVideo()) {
